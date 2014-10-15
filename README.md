@@ -3,7 +3,7 @@ PCB MPX20xx
 
 This is a PCB for the [water tank depth
 sensor](http://www.practicalarduino.com/projects/water-tank-depth-sensor)
-project featured in [Practical
+project featured in the [Practical
 Arduino](http://www.practicalarduino.com) book.
 
 From the [MPX2010
