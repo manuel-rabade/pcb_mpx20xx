@@ -21,15 +21,24 @@ and there are other MPX20xx sensor like the
 [MPX2050](http://cache.freescale.com/files/sensors/doc/data_sheet/MPX2050.pdf)
 that can mesaure up to 50 kPa (about 50 meters depth).
 
+The [mpx20xx](mpx20xx) project was done in [CadSoft
+EAGLE](http://www.cadsoft.de/eagle-pcb-design-software/) 7.1.0.
+
 Schematic
 ---------
 
-![Schematic](mpx20xx/mpx20xx_sch.png "Schematic")
+![Schematic](mpx20xx_sch.png "Schematic")
 
 PCB
 ---
 
-![PCB](mpx20xx/mpx20xx_pcb.png "PCB")
+**Artwork**
+
+![Artwork](mpx20xx_brd.png "Artwork")
+
+**Manufactured**
+
+![PCB](mpx20xx_pcb.jpg "PCB")
 
 Author
 ------
